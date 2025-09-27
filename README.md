@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow
+Coursework repository for my Data Science Studies at Cooperative university of Kenya
